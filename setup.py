@@ -1,5 +1,5 @@
 """
-lambdata_maximematerno1 - A Collection of Data Science helper functions.
+lambdata_maximematerno - A Collection of Data Science helper functions.
 """
 
 
@@ -14,8 +14,8 @@ with open("README.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()
 
 setuptools.setup(
-    name="lambdata_maximematerno1",
-    version="0.0.2",
+    name="lambdata_maximematerno",
+    version="0.0.3",
     author="maximematerno",
     description="A Collection of Data Science helper functions",
     long_description=LONG_DESCRIPTION,
