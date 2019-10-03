@@ -15,7 +15,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lambdata-maximematerno",
-    version="0.0.1",
+    version="0.0.2",
     author="maximematerno",
     description="A Collection of Data Science helper functions",
     long_description=LONG_DESCRIPTION,
